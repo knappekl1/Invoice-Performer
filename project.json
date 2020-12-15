@@ -1,5 +1,5 @@
 {
-  "name": "Invoice-Performer",
+  "name": "Invoice-PerformerFiberpreg",
   "description": "Invoice processing, performer bot for Invoice-Dispatcher process",
   "main": "Main.xaml",
   "dependencies": {
@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.8.0.0",
-  "projectVersion": "1.0.7",
+  "projectVersion": "1.0.8",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,

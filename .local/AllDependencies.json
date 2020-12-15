@@ -2088,11 +2088,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Invoice-Performer",
-      "projectName": "Invoice-Performer",
-      "projectPath": "C:\\Users\\libor\\Dropbox\\LK_docs\\Valuetools\\Zákazníci\\Benet Automotive\\Demo Process\\Invoice-Performer\\.local",
+      "projectUniqueName": "Invoice-PerformerFiberpreg",
+      "projectName": "Invoice-PerformerFiberpreg",
+      "projectPath": "C:\\Users\\libor\\Dropbox\\LK_docs\\Valuetools\\Zákazníci\\Fiberpreg\\InvoiceProcess\\Invoice-Performer\\.local",
       "packagesPath": "C:\\Users\\libor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\libor\\Dropbox\\LK_docs\\Valuetools\\Zákazníci\\Benet Automotive\\Demo Process\\Invoice-Performer\\.local"
+      "outputPath": "C:\\Users\\libor\\Dropbox\\LK_docs\\Valuetools\\Zákazníci\\Fiberpreg\\InvoiceProcess\\Invoice-Performer\\.local"
     },
     "frameworks": {
       "net461": {
